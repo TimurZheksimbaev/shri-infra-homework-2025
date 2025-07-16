@@ -4,6 +4,8 @@ import { cn } from "@bem-react/classname";
 
 const bem = cn("About");
 
+// ++++++++++++++
+
 export const About: React.FC = () => {
   return (
     <div className={bem()}>
